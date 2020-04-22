@@ -1,4 +1,4 @@
-.container {
+.App-container {
   width: 100%;
   padding-right: 1rem;
   padding-left: 1rem;
@@ -7,25 +7,25 @@
 }
 
 @media (min-width: 576px) {
-  .container {
+  .App-container {
     max-width: 540px;
   }
 }
 
 @media (min-width: 768px) {
-  .container {
+  .App-container {
     max-width: 720px;
   }
 }
 
 @media (min-width: 992px) {
-  .container {
+  .App-container {
     max-width: 960px;
   }
 }
 
 @media (min-width: 1200px) {
-  .container {
+  .App-container {
     max-width: 1140px;
   }
 }
